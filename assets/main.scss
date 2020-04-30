@@ -4,6 +4,10 @@
 
 @import "minima";
 
+body {
+  background-color: white;
+}
+
 .logo {
   margin: 0.5em 0;
   display: inline;
@@ -14,4 +18,25 @@ p {
   letter-spacing: 0.04em;
   line-height: 2.2em;
   font-size: 14px;
+}
+
+.image-quote {
+  display: flex;
+  flex-direction: row;
+  padding: 0 2em;
+
+  img {
+    height: 400px;
+    align-self: center;
+  }
+
+  span {
+    align-self: center;
+    margin: 0 2em;
+  }
+}
+
+.page-title {
+  widows: 100%;
+  text-align: center;
 }

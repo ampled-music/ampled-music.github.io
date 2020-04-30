@@ -6,16 +6,17 @@ layout: home
 nav_title: Bylaws 
 title: AMPLED BYLAWS
 ---
+*This work, "Ampled Bylaws", is a derivative of "[East Bay Permanent Real Estate Cooperative Bylaws](https://storage.googleapis.com/wzukusers/user-22872016/documents/5c1c13becd05czJWwWae/Adopted%20EB%20PREC%20Bylaws%20Dec%202018.pdf)" by theselc.org, used under CC [BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ## Welcome to our Bylaws
 
-“This is the rulebook for Ampled. This document explains how shared ownership works, how decisions are made, and how profit is shared.”
+{%- include image_quotes.html image_source='assets/blackmetal.jpg' quote='This is the rulebook for Ampled. This document explains how shared ownership works, how decisions are made, and how profit is shared.' -%}
 
 <br>
 
 ## Our Mission
 
-“Our mission is to make music more equitable for artists and to operate transparently and ethically.”  
+{%- include image_quotes.html image_source='assets/hardcore.jpg' quote='Our mission is to make music more equitable for artists and to operate transparently and ethically.' -%}
 
 <br>
 
@@ -38,6 +39,10 @@ Our charter represents core values of Ampled. Any decisions made by Ampled or an
 <br>
 
 ## Ownership
+
+{%- include image_quotes.html image_source='assets/powertrip.jpg' quote='There are 3 classes of ownership. Artists, Workers, and Community.' -%}
+
+<br>
 
 Ampled has 3 kinds of Owners
 
@@ -125,7 +130,9 @@ In the case of a Community-Owner, they do not make a payment of dues for more th
 
 ## Board of Directors
 
-“Our board of directors are elected representatives that serve as stewards of their constituent interests. No VC investors here.”
+{%- include image_quotes.html image_source='assets/pop.jpg' quote='Our board of directors are elected representatives that serve as stewards of their constituent interests. No VC investors here.' -%}
+
+<br>
 
 Except as otherwise provided, the Cooperative will have 9 Directors (aka Board members) and they serve 1 year terms.
 
@@ -211,7 +218,7 @@ The Secretary, President, or Treasurer may sign a document or make a binding com
 
 ## Changing the Bylaws
 
-“This is a living document. Here is how these bylaws can change.”
+{%- include image_quotes.html image_source='assets/folk.jpg' quote='This is a living document. Here is how these bylaws can change.' -%}
 
 Prior to the first Board election, these Bylaws may be changed by approval of a majority of Initial Worker-Owners.
 
@@ -225,7 +232,9 @@ Each time a page in the Bylaws is amended, the Board Secretary will email a copy
 
 ## Capped Compensation
 
-“Capped compensation protects against runaway salaries and unfair pay ratios.”
+{%- include image_quotes.html image_source='assets/rap.jpg' quote='Capped compensation protects against runaway salaries and unfair pay ratios.' -%}
+
+<br>
 
 Worker compensation shall not exceed 3.5 times the median per capita wage for all occupations in the New York City Metropolitan area, as calculated by the Bureau of Labor Statistics in its most current Area Occupational Employment and Wage Estimates. For example, as of 2019, the median salary for all occupations in this region is $50,825. In this case, an Ampled employee could not be allowed to make more than $177,887 per year for full time work.
 
@@ -235,7 +244,10 @@ Salaries of leadership may be no more than 3 times the average employee’s comp
 
 ## Profit Sharing
 
-“Profit is redistributed back to members.”
+{%- include image_quotes.html image_source='assets/gothrap.jpg' quote='Profit is redistributed back to members.' -%}
+
+<br>
+
 After the end of every fiscal year, Ampled shall do the following: 
 
 1. Determine available surpluses for reallocation.
