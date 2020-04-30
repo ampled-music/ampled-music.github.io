@@ -8,6 +8,8 @@ title: AMPLED BYLAWS
 ---
 *This work, "Ampled Bylaws", is a derivative of "[East Bay Permanent Real Estate Cooperative Bylaws](https://storage.googleapis.com/wzukusers/user-22872016/documents/5c1c13becd05czJWwWae/Adopted%20EB%20PREC%20Bylaws%20Dec%202018.pdf)" by theselc.org, used under CC [BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
+<br>
+
 ## Welcome to our Bylaws
 
 {%- include image_quotes.html image_source='assets/blackmetal.jpg' quote='This is the rulebook for Ampled. This document explains how shared ownership works, how decisions are made, and how profit is shared.' -%}
